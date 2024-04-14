@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    
     //Operators in C++
     /*
     1.Arithmetic Operators
